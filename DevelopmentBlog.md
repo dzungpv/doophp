@@ -1,0 +1,1 @@
+Read blog at http://www.doophp.com/blog
